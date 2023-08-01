@@ -1,0 +1,4 @@
+
+
+class DistributedTainer(object):
+    pass
